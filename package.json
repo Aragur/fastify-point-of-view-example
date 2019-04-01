@@ -1,0 +1,21 @@
+{
+  "name": "point-of-view-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "AragurDEV",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.1.0",
+    "handlebars": "^4.1.1",
+    "point-of-view": "^3.1.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AragurDEV/fastify-point-of-view-example.git"
+  }
+}
